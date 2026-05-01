@@ -29,4 +29,5 @@ This is a simple hospital patient management system i made using Java programmin
 ## Note
 This is my first mini project using OOP concepts in Java so it is simple and i took more time than given but worked my best on it!
 
-## Made by;
+## Made by:
+KEBRON TESHOME KEBEDE (Student-id 0056/26)
